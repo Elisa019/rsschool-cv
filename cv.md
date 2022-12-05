@@ -6,7 +6,7 @@
 ## Summary
 i am 17 years old, Computer Science bachelor and
 I am an exceptional team worker with a great communication skills, I have a little experience as a junior front-end developer and
-my goal is to gain more experience in the field of front-end development
+my goal is to gain more experience in the field of front-end development.
 ## Skills
 * Front-End Development
   + HTML (Base fundamentals)
